@@ -26,13 +26,12 @@ cosine_sim = cosine_similarity(features)
 
 #各楽曲をラベリング
 target_song_df_original = pd.DataFrame(ref_df_original[ref_df_original['track_name'] == title])
-#print(target_song_df_original)
 df_original = pd.concat([df_original, target_song_df_original], ignore_index=True)
-#print(df_original[df_original['track_name'] == title])
+
+df = pd.concat([df, target_song_row], ignore_index=True)
 df['title'] = df_original['track_name']
 df['artist'] = df_original['artist_name']
 df['track_url'] = df_original['id'].apply(lambda x: f"https://open.spotify.com/track/{x}")
-print(df[df['title'] == title].index)
 indices = pd.Series(df.index, index=df['title']).drop_duplicates()
 
 #おすすめの楽曲を推薦する

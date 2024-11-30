@@ -132,6 +132,9 @@ ref_album_ids = [
     '4m6bLncIYJTrXPP1VElbMD', #golden hour
     '1h6oXNtiHZeYfYgoTIXxQf', #secret garden
     '6KmFVc02ydkX74X0mgytOM', #alone time
+    '75wHLesrFkyesQlDOtBha8', #homeland
+    '6CKdLa08BOvAH7yoTOxu9X', #daydream
+    '33UUMdyDFYuUD1rqXbQxlA', #Cozy Vacation
 ]
 
 # トラックIDを取得

@@ -27,6 +27,6 @@ def recommend_songs(title, cosine_sim=cosine_sim):
 
     return recommendations
 
-title='Sonder'
+title='Goosebumps'
 results = recommend_songs(title)
 print(results)
