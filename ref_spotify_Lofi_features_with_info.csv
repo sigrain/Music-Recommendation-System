@@ -60,7 +60,6 @@ id,track_name,artist_name,acousticness,danceability,energy,valence,instrumentaln
 3q30qC8nvdtBMqaKfBK4Yf,moonlit melancholy,Lowfi,0.651,0.756,0.458,0.414,0.72,0.0645,136.086,-11.348,0,4,129209,4
 3q30qC8nvdtBMqaKfBK4Yf,moonlit melancholy,Lowfi,0.651,0.756,0.458,0.414,0.72,0.0645,136.086,-11.348,0,4,129209,4
 4kW1JC9p5iXuoH67caEORA,evening sunset,sogni,0.735,0.739,0.254,0.397,0.92,0.163,168.268,-14.755,0,8,129346,4
-4kW1JC9p5iXuoH67caEORA,evening sunset,sogni,0.735,0.739,0.254,0.397,0.92,0.163,168.268,-14.755,0,8,129346,4
 4p4g3cApl4Hd4Mc2KuhvwI,homecoming,ddc.,0.878,0.635,0.17,0.287,0.92,0.034,110.018,-17.649,0,7,142747,4
 4p4g3cApl4Hd4Mc2KuhvwI,homecoming,ddc.,0.878,0.635,0.17,0.287,0.92,0.034,110.018,-17.649,0,7,142747,4
 2UUup6ZaDtaIRSQ2bo6kyH,spirited away,ddc.,0.903,0.501,0.271,0.372,0.975,0.0276,76.01,-20.571,0,5,164284,4
@@ -74,8 +73,6 @@ id,track_name,artist_name,acousticness,danceability,energy,valence,instrumentaln
 78SnUxmQZUKkYqV4DTjIGM,the sound of forest,Amo,0.784,0.761,0.383,0.494,0.867,0.147,151.988,-8.973,1,10,142303,4
 3q30qC8nvdtBMqaKfBK4Yf,moonlit melancholy,Lowfi,0.651,0.756,0.458,0.414,0.72,0.0645,136.086,-11.348,0,4,129209,4
 3q30qC8nvdtBMqaKfBK4Yf,moonlit melancholy,Lowfi,0.651,0.756,0.458,0.414,0.72,0.0645,136.086,-11.348,0,4,129209,4
-4kW1JC9p5iXuoH67caEORA,evening sunset,sogni,0.735,0.739,0.254,0.397,0.92,0.163,168.268,-14.755,0,8,129346,4
-4kW1JC9p5iXuoH67caEORA,evening sunset,sogni,0.735,0.739,0.254,0.397,0.92,0.163,168.268,-14.755,0,8,129346,4
 4p4g3cApl4Hd4Mc2KuhvwI,homecoming,ddc.,0.878,0.635,0.17,0.287,0.92,0.034,110.018,-17.649,0,7,142747,4
 4p4g3cApl4Hd4Mc2KuhvwI,homecoming,ddc.,0.878,0.635,0.17,0.287,0.92,0.034,110.018,-17.649,0,7,142747,4
 2UUup6ZaDtaIRSQ2bo6kyH,spirited away,ddc.,0.903,0.501,0.271,0.372,0.975,0.0276,76.01,-20.571,0,5,164284,4

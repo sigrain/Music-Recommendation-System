@@ -14,7 +14,7 @@ ref_df['artist'] = ref_df_original['artist_name']
 ref_df['track_url'] = ref_df_original['id'].apply(lambda x: f"https://open.spotify.com/track/{x}")
 
 #ターゲットの楽曲の特徴量を抽出
-title='carried away'
+title='evening sunset'
 target_song_row = ref_df[ref_df['title'] == title]
 target_song_features = target_song_row[['acousticness', 'tempo', 'loudness', 'mode', 'key', 'energy', 'valence', 'instrumentalness', 'time_signature']]
 target_song_df = pd.DataFrame(target_song_features)
